@@ -1,0 +1,1 @@
+console.log("hello this is a log from popup.js")
